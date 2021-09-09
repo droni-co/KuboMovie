@@ -1,0 +1,15 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+@import "~vuetify/dist/vuetify.min.css";
+
+.fullH {
+  min-height: 100vh;
+}
+a:hover { text-decoration: none; }
